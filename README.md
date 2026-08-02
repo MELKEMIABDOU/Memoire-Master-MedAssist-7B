@@ -47,8 +47,6 @@ An ethically aligned, secure, and locally deployable AI medical assistant system
 git clone [https://github.com/YOUR_USERNAME/Memoire-Master-MedAssist-7B.git](https://github.com/YOUR_USERNAME/Memoire-Master-MedAssist-7B.git)
 cd Memoire-Master-MedAssist-7B
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Run the local application
-python app.py
+
+
