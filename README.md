@@ -33,9 +33,6 @@ An ethically aligned, secure, and locally deployable AI medical assistant system
 
 ---
 
-## ⚙️ Quick Start & Installation
-
-*(Tip for the user: Replace the placeholder commands below with your actual project setup scripts!)*
 
 ### Prerequisites
 * Python 3.10+
@@ -44,7 +41,7 @@ An ethically aligned, secure, and locally deployable AI medical assistant system
 ### Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/Memoire-Master-MedAssist-7B.git](https://github.com/YOUR_USERNAME/Memoire-Master-MedAssist-7B.git)
+git clone [https://github.com/MELKEMIABDOU/Memoire-Master-MedAssist-7B.git](https://github.com/MELKEMIABDOU/Memoire-Master-MedAssist-7B.git)
 cd Memoire-Master-MedAssist-7B
 
 
